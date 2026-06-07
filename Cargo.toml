@@ -1,0 +1,11 @@
+[package]
+name = "hoare-logic"
+version = "0.1.0"
+edition = "2021"
+description = "Hoare logic with weakest precondition, strongest postcondition, and verification condition generation"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/hoare-logic"
+keywords = ["hoare", "verification", "formal-methods", "wp", "vcgen"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
